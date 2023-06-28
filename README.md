@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LorekHan
+- 👋 Hi, I’m @IorekHan
 
 - 👀 I’m interested in computer programming, algorithms, data processing/analysis, etc. 
 - 👀 I also have good knowledge in computer network, AI, cloud and so on.
