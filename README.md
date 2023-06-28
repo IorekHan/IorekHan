@@ -7,10 +7,10 @@
 - 🌱 I’m good at:
   - Python
   - SQL
-  - Spark/Hadoop
   - C++/C
-  - Google Cloud Platform
-  - R-studio
+  - Django
+  - HTML
+  - CSS
 
 - 📫 How to reach me:
   - Email: 2536749429lh3096@gmail.com
