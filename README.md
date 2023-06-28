@@ -4,7 +4,7 @@
 - 👀 I also have good knowledge in computer network, AI, cloud and so on.
 - 👀 I’m currently looking for a software developer related or data related fulltime role.  
 
-- 🌱 I’m good at:
+- 🌱 My skills:
   - Python
   - SQL
   - C++/C
